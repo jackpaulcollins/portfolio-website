@@ -1,5 +1,11 @@
-img {
+#homepage-picture {
   border-radius: 50%;
+
+  margin-left: 150px;
+}
+
+#homepage-picture-card {
+  border-width: 0px;
 }
 
 .card {
@@ -14,11 +20,6 @@ img {
 
 .name-font {
   font-size: 25px;
-}
-
-#homepage-picture {
-  border-width: 0px;
-  margin-left: 150px;
 }
 
 #homepage-bio {
@@ -40,10 +41,12 @@ img {
 
 #about-me-pictures-card {
   border-width: 0;
+
 }
 
 #about-me-card {
   border-width: 0;
+
 }
 
 .card.about-me-pictures-card {
@@ -52,6 +55,7 @@ img {
 
 #pictures-card {
   margin-top: 300px;
+
 }
 
 .container {
