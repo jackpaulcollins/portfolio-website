@@ -1,10 +1,14 @@
+body {
+  background-color: #1f3766;
+}
+
 #homepage-picture {
   border-radius: 50%;
-
   margin-left: 150px;
 }
 
 #homepage-picture-card {
+  background-color: #1f3766;
   border-width: 0px;
 }
 
@@ -13,7 +17,9 @@
 }
 
 #name-card {
+  background-color: #1f3766;
   font-family: sans-serif;
+  color: white;
   font-size: 5em;
   border-width: 0px;
 }
@@ -60,4 +66,42 @@
 
 .container {
   margin-top: 30px;
+}
+
+
+
+.row h1 {
+  color: white;
+}
+
+
+.row p {
+  color: white;
+}
+
+a:link {
+  color: white;
+}
+
+
+a:visited {
+  color: white;
+}
+
+
+a:hover {
+  color: hotpink;
+}
+
+
+a:active {
+  color: white;
+}
+
+ol {
+  color: white;
+}
+
+ul {
+  color: white; 
 }
