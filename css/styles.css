@@ -29,3 +29,31 @@ img {
   padding-left: 250px;
   padding-right: 250px;
 }
+
+.card-group {
+  padding: 10px;
+}
+
+.about-me-pictures {
+  border-radius: 8px;
+}
+
+#about-me-pictures-card {
+  border-width: 0;
+}
+
+#about-me-card {
+  border-width: 0;
+}
+
+.card.about-me-pictures-card {
+  border-width: 0;
+}
+
+#pictures-card {
+  margin-top: 300px;
+}
+
+.container {
+  margin-top: 30px;
+}
