@@ -1,3 +1,31 @@
+img {
+  border-radius: 50%;
+}
+
 .card {
+  margin-bottom: 100px;
+}
+
+#name-card {
+  font-family: sans-serif;
+  font-size: 5em;
   border-width: 0px;
+}
+
+.name-font {
+  font-size: 25px;
+}
+
+#homepage-picture {
+  border-width: 0px;
+  margin-left: 150px;
+}
+
+#homepage-bio {
+  border-width: 0;
+}
+#homepage-links {
+  border-width: 0px;
+  padding-left: 250px;
+  padding-right: 250px;
 }
