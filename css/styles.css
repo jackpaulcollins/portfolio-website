@@ -4,6 +4,8 @@ body {
 
 #homepage-picture {
   border-radius: 50%;
+  border-width: 2px;
+  border-color: white;
   margin-left: 150px;
 }
 
@@ -24,8 +26,10 @@ body {
   border-width: 0px;
 }
 
-.name-font {
-  font-size: 25px;
+.text-muted {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
 }
 
 #homepage-bio {
@@ -95,13 +99,45 @@ a:hover {
 
 
 a:active {
-  color: white;
+  color: #d3d3d3;
 }
 
 ol {
-  color: white;
+  color: #d3d3d3;
 }
 
 ul {
-  color: white; 
+  color: white;
+}
+
+#project-links {
+  margin-top: 400px;
+}
+
+#project-card {
+  padding-left: 300px;
+  padding-right: 225px;
+}
+
+#background-card {
+  padding-left: 300px;
+  padding-right: 225px;
+}
+
+
+#background-link {
+  margin-top: 400px;
+}
+
+#about-me-links {
+  padding-left: 300px;
+  padding-right: 225px;
+}
+
+#projects-row {
+  margin-bottom: 50px;
+}
+
+#background-row {
+  margin-bottom: 50px;
 }
