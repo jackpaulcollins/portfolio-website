@@ -2,6 +2,10 @@
 
 Portfolio Website
 
+# Description
+
+My web developer portfolio website
+
 ## Getting Started
 
 you can either visit the website at https://jaypeejay.github.io/portfolio-website/index.html
